@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "email-js": "^2.0.2"
+  }
+}
